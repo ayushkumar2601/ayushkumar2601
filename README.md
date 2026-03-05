@@ -2,7 +2,7 @@
   <h1>
     <img src="catjam-cat.gif" alt="Cat Jam" width="30"> &nbsp;That's Me&nbsp; <img src="https://github.com/4rjunc/4rjunc/raw/main/cat.gif" alt="Cat GIF" width="30">
   </h1>
-  <h3> i do software // java dev / cp / ai/ml // web2 / web3 (sometimes) <h3>
+  <h3> I do software // java dev / cp / ai/ml // web2 / web3 (sometimes) <h3>
   <br/>
 </div>
 
