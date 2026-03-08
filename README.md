@@ -11,7 +11,7 @@
 <div align="center">
   Love to build and contribute to projects.
   Held Together by Code, Music and Duct Tapes.
-  Jack of all trades, try to be master of some.
+  Jack of all trades, trying to be master of some.
 </div>
 
 ---
