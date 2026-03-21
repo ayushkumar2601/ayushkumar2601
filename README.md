@@ -84,9 +84,3 @@
 
 [![Other Skills](https://skillicons.dev/icons?i=kafka,notion,cpp,solidity&perline=8)](https://skillicons.dev)
 
-<div align="center">
-  <hr width="80%">
-  <h2 style="color:#FFD700; font-family:Georgia, serif; font-style: italic;">
-    Look How far that little candle throws his beams
-  </h2>
-</div>
