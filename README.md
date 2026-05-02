@@ -15,7 +15,6 @@
 </div>
 
 ---
-
 <div align="center">
   <img src="meow.gif" alt="Meow">
   <p><i>Have good day ❤️</i></p>
@@ -33,11 +32,7 @@
 ### Frontend
 
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs&perline=8)](https://skillicons.dev)
-
 </div>
-
----
-
 <div align="center">
 
 ### Backend
@@ -46,7 +41,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -56,7 +51,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -66,7 +61,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -76,7 +71,6 @@
 
 </div>
 
----
 
 <div align="center">
 
